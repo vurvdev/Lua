@@ -1,10 +1,10 @@
-# Lua / StarfallEx [![License](https://img.shields.io/github/license/Vurv78/Autorun-rs?color=red)](https://opensource.org/licenses/Apache-2.0) [![github/Vurv78](https://img.shields.io/discord/824727565948157963?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33)](https://discord.gg/epJFC6cNsw)
+# Lua / Starfall [![License](https://img.shields.io/github/license/vurvdev/Autorun-rs?color=red)](https://opensource.org/licenses/Apache-2.0) [![github/vurvdev](https://img.shields.io/discord/824727565948157963?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33)](https://discord.gg/epJFC6cNsw)
 
 > A collection of lua code and or sf chips and libraries.  
-[Find Starfall Here](https://github.com/thegrb93/StarfallEx)
+[Find Starfall Here](https://github.com/neostarfall/neostarfall)
 
 ## Jit/Lua Libraries
-* Detours > Basic detour library based off of msdetours that powers projects like [Safety](https://github.com/Vurv78/Safety)
+* Detours > Basic detour library based off of msdetours that powers projects like [Safety](https://github.com/vurvdev/Safety)
 ## Starfall Libraries
 * Async > Async library. Write asynchronous functions and await them using custom metatable syntax.
 * GLua Compat > Compatibility with a small amount of glua functions. Unfinished 🚧.
